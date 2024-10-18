@@ -28,7 +28,7 @@
     </div>
 
     <div class="login-help">
-      <p>Forgot your password? <a href="index.php">Click here to reset it</a>.</p>
+      <p>hello amir <a href="index.php">Click here to reset it</a>.</p>
     </div>
   </section>
 
